@@ -12,3 +12,11 @@ div:hover {
     outline: solid 5px red;
     outline-offset: 5px;
 }
+
+#a {
+    box-sizing: content-box;
+}
+
+#b {
+    box-sizing: border-box;
+}
