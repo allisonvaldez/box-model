@@ -1,0 +1,14 @@
+div {
+    width: 200px;
+    padding: 1em;
+    background-color: lightblue;
+    border: solid 5px black;
+    height: 200px;
+    margin-bottom: 2em;
+    margin-right: 500px;
+}
+
+div:hover {
+    outline: solid 5px red;
+    outline-offset: 5px;
+}
